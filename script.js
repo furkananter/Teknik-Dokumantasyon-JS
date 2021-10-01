@@ -1,0 +1,1 @@
+//Burası Javascript Dosyaları olacak.
