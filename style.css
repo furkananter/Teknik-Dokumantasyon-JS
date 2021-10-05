@@ -9,7 +9,7 @@ html,body{
     position:fixed;
     min-width: 290px;
     top:0px;
-    left;0px;
+    left:0px;
     width: 310px;
     height:100%;
     background-color: black;
@@ -73,7 +73,7 @@ html,body{
   code{
     display:block;
     text-align: left;
-    //white-space: pre-line;
+    /*white-space: pre-line;*/
     position: relative;
     word-break: normal;
     word-wrap: normal;
